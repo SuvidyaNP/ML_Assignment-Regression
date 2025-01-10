@@ -2,9 +2,11 @@
 # **Regression Algorithm Comparison**
 
 **Overview:**
+
 This project implements and compares the performance of various regression algorithms on the California Housing dataset (fetch_california_housing). The objective is to evaluate and identify the best-performing algorithm using common evaluation metrics.
 
-**Algorithms Implemented**
+**Algorithms Implemented:**
+
 1. Linear Regression
 2. Decision Tree Regressor
 3. Random Forest Regressor
@@ -23,8 +25,8 @@ This project implements and compares the performance of various regression algor
 
 **2. Model Training:**
 
-a- Split the data into training and testing sets.
-b- Trained the following models:
+1. Split the data into training and testing sets.
+2. Trained the following models:
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
