@@ -1,5 +1,5 @@
 # ML_Assignment-Regression
-**Regression Algorithm Comparison**
+# **Regression Algorithm Comparison**
 
 **Overview:**
 This project implements and compares the performance of various regression algorithms on the California Housing dataset (fetch_california_housing). The objective is to evaluate and identify the best-performing algorithm using common evaluation metrics.
@@ -12,9 +12,10 @@ This project implements and compares the performance of various regression algor
 5. Support Vector Regressor (SVR)
 
 **Dataset**
-Name: fetch_california_housing (from sklearn.datasets)
+- Name: fetch_california_housing (from sklearn.datasets)
 
 **Steps Implemented**
+
 **1. Data Preprocessing:**
 
 - Loaded the dataset using fetch_california_housing.
@@ -22,8 +23,8 @@ Name: fetch_california_housing (from sklearn.datasets)
 
 **2. Model Training:**
 
-a-Split the data into training and testing sets.
-b-Trained the following models:
+a- Split the data into training and testing sets.
+b- Trained the following models:
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
@@ -39,8 +40,8 @@ Evaluated each model using:
 
 **4. Comparison**
 
--Identified the best-performing algorithm (Random Forest Regressor) and worst-performing algorithm (Linear Regression).
--Justifications were provided for the selection of these algorithms.
+- Identified the best-performing algorithm (Random Forest Regressor) and worst-performing algorithm (Linear Regression).
+- Justifications were provided for the selection of these algorithms.
 
 
 **Conclusion**
