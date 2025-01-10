@@ -15,12 +15,12 @@ This project implements and compares the performance of various regression algor
 Name: fetch_california_housing (from sklearn.datasets)
 
 **Steps Implemented**
-1. Data Preprocessing:
+**1. Data Preprocessing:**
 
-1-Loaded the dataset using fetch_california_housing.
-2-Standardized the features using StandardScaler to ensure all variables have equal importance.
+- Loaded the dataset using fetch_california_housing.
+- Standardized the features using StandardScaler to ensure all variables have equal importance.
 
-2. Model Training:
+**2. Model Training:**
 
 a-Split the data into training and testing sets.
 b-Trained the following models:
@@ -30,17 +30,17 @@ b-Trained the following models:
 - Gradient Boosting Regressor
 - SVR
 
-3. Model Evaluation:
+**3. Model Evaluation:**
 
 Evaluated each model using:
 - Mean Squared Error (MSE)
 - Mean Absolute Error (MAE)
 - R-squared Score (R²)
 
-4. Comparison
+**4. Comparison**
 
-1-Identified the best-performing algorithm (Random Forest Regressor) and worst-performing algorithm (Linear Regression).
-2-Justifications were provided for the selection of these algorithms.
+-Identified the best-performing algorithm (Random Forest Regressor) and worst-performing algorithm (Linear Regression).
+-Justifications were provided for the selection of these algorithms.
 
 
 **Conclusion**
