@@ -22,20 +22,20 @@ Name: fetch_california_housing (from sklearn.datasets)
 
 2. Model Training:
 
-1-Split the data into training and testing sets.
-2-Trained the following models:
->Linear Regression
->Decision Tree Regressor
->Random Forest Regressor
->Gradient Boosting Regressor
->SVR
+a-Split the data into training and testing sets.
+b-Trained the following models:
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- SVR
 
 3. Model Evaluation:
 
 Evaluated each model using:
->Mean Squared Error (MSE)
->Mean Absolute Error (MAE)
->R-squared Score (R²)
+- Mean Squared Error (MSE)
+- Mean Absolute Error (MAE)
+- R-squared Score (R²)
 
 4. Comparison
 
